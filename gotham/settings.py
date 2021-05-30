@@ -17,8 +17,6 @@ from .local_settings import *
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-q%w_7wo&=54st)g2yj^y-%!lji#5ndyjbho5v4vlzv3@o@bjd&'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
