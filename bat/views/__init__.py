@@ -1,1 +1,1 @@
-from .welcomeview import *
+from .homepage import HomePageView
